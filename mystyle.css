@@ -1,0 +1,78 @@
+a {
+
+  text-decoration: none;
+  padding: 10px;
+  color: lightsalmon;
+  border: 1px solid blue;
+}
+
+a:hover {
+
+  color: blue;
+  background: brown;
+}
+
+
+nav {
+
+  padding: 10px;
+  margin: 10px;
+}
+
+header nav a {
+  padding: 5px 10px;
+  margin: 0 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  background: tomato;
+  
+}
+
+header nav a:hover {
+  color: tomato;
+  background: white;
+}
+
+
+
+.book-content {
+
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px
+
+}
+
+blockquote {
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+  
+}
+
+cite {
+
+  color: purple;
+}
+
+
+
+p {
+
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+footer nav a {
+  padding: 5px 10px;
+  margin: 0 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  background: orange;
+  }
+
+footer nav a:hover {
+  color: orange;
+  background: white;
+}
